@@ -1,0 +1,14 @@
+{
+  "userProfilePK": 131621693,
+  "calendarDate": "2026-01-15",
+  "startTimestampGMT": "2026-01-15T03:00:00.0",
+  "endTimestampGMT": "2026-01-16T03:00:00.0",
+  "startTimestampLocal": "2026-01-15T00:00:00.0",
+  "endTimestampLocal": "2026-01-16T00:00:00.0",
+  "maxStressLevel": 86,
+  "avgStressLevel": 21,
+  "stressChartValueOffset": 1,
+  "stressChartYAxisOrigin": -1,
+  "stressValueDescriptorsDTOList": [],
+  "stressValuesArray": []
+}

@@ -1,0 +1,47 @@
+{
+  "activityId": 23004204088,
+  "exerciseSets": [
+    {
+      "exercises": [
+        {
+          "category": "UNKNOWN",
+          "name": null,
+          "probability": 98.828125
+        }
+      ],
+      "duration": 2211.497,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "ACTIVE",
+      "startTime": "2026-05-25T08:46:38.0",
+      "wktStepIndex": null,
+      "messageIndex": 0
+    },
+    {
+      "exercises": [],
+      "duration": 1.217,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "REST",
+      "startTime": "2026-05-25T09:24:13.0",
+      "wktStepIndex": null,
+      "messageIndex": 1
+    },
+    {
+      "exercises": [
+        {
+          "category": "UNKNOWN",
+          "name": null,
+          "probability": 98.828125
+        }
+      ],
+      "duration": 1.303,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "ACTIVE",
+      "startTime": "2026-05-25T09:24:14.0",
+      "wktStepIndex": null,
+      "messageIndex": 2
+    }
+  ]
+}

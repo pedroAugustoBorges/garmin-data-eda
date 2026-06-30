@@ -1,0 +1,22 @@
+[
+  {
+    "userProfilePK": 131621693,
+    "startDate": "2025-04-15",
+    "endDate": "2026-05-18",
+    "periodAvgScore": {
+      "2025-04-15": null
+    },
+    "maxScore": null,
+    "hillScoreDTOList": []
+  },
+  {
+    "userProfilePK": 131621693,
+    "startDate": "2026-05-19",
+    "endDate": "2026-06-22",
+    "periodAvgScore": {
+      "2026-05-19": null
+    },
+    "maxScore": null,
+    "hillScoreDTOList": []
+  }
+]

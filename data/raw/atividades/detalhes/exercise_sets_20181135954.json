@@ -1,0 +1,47 @@
+{
+  "activityId": 20181135954,
+  "exerciseSets": [
+    {
+      "exercises": [
+        {
+          "category": "UNKNOWN",
+          "name": null,
+          "probability": 98.828125
+        }
+      ],
+      "duration": 745.546,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "ACTIVE",
+      "startTime": "2025-08-26T09:29:10.0",
+      "wktStepIndex": null,
+      "messageIndex": 0
+    },
+    {
+      "exercises": [],
+      "duration": 5.205,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "REST",
+      "startTime": "2025-08-26T09:41:35.0",
+      "wktStepIndex": null,
+      "messageIndex": 1
+    },
+    {
+      "exercises": [
+        {
+          "category": "UNKNOWN",
+          "name": null,
+          "probability": 98.828125
+        }
+      ],
+      "duration": 2.229,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "ACTIVE",
+      "startTime": "2025-08-26T09:41:40.0",
+      "wktStepIndex": null,
+      "messageIndex": 2
+    }
+  ]
+}

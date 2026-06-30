@@ -1,0 +1,386 @@
+[
+  {
+    "calendarDate": "2025-04-14",
+    "weeklyGoal": 150,
+    "moderateValue": 27,
+    "vigorousValue": 26
+  },
+  {
+    "calendarDate": "2025-04-21",
+    "weeklyGoal": 150,
+    "moderateValue": 30,
+    "vigorousValue": 98
+  },
+  {
+    "calendarDate": "2025-04-28",
+    "weeklyGoal": 150,
+    "moderateValue": 85,
+    "vigorousValue": 185
+  },
+  {
+    "calendarDate": "2025-05-05",
+    "weeklyGoal": 150,
+    "moderateValue": 25,
+    "vigorousValue": 95
+  },
+  {
+    "calendarDate": "2025-05-12",
+    "weeklyGoal": 150,
+    "moderateValue": 26,
+    "vigorousValue": 200
+  },
+  {
+    "calendarDate": "2025-05-19",
+    "weeklyGoal": 150,
+    "moderateValue": 5,
+    "vigorousValue": 44
+  },
+  {
+    "calendarDate": "2025-05-26",
+    "weeklyGoal": 150,
+    "moderateValue": 6,
+    "vigorousValue": 102
+  },
+  {
+    "calendarDate": "2025-06-02",
+    "weeklyGoal": 150,
+    "moderateValue": 13,
+    "vigorousValue": 98
+  },
+  {
+    "calendarDate": "2025-06-09",
+    "weeklyGoal": 150,
+    "moderateValue": 7,
+    "vigorousValue": 116
+  },
+  {
+    "calendarDate": "2025-06-16",
+    "weeklyGoal": 150,
+    "moderateValue": 24,
+    "vigorousValue": 146
+  },
+  {
+    "calendarDate": "2025-06-23",
+    "weeklyGoal": 150,
+    "moderateValue": 14,
+    "vigorousValue": 187
+  },
+  {
+    "calendarDate": "2025-06-30",
+    "weeklyGoal": 150,
+    "moderateValue": 5,
+    "vigorousValue": 183
+  },
+  {
+    "calendarDate": "2025-07-07",
+    "weeklyGoal": 150,
+    "moderateValue": 12,
+    "vigorousValue": 202
+  },
+  {
+    "calendarDate": "2025-07-14",
+    "weeklyGoal": 150,
+    "moderateValue": 90,
+    "vigorousValue": 161
+  },
+  {
+    "calendarDate": "2025-07-21",
+    "weeklyGoal": 150,
+    "moderateValue": 79,
+    "vigorousValue": 63
+  },
+  {
+    "calendarDate": "2025-07-28",
+    "weeklyGoal": 150,
+    "moderateValue": 42,
+    "vigorousValue": 249
+  },
+  {
+    "calendarDate": "2025-08-04",
+    "weeklyGoal": 150,
+    "moderateValue": 123,
+    "vigorousValue": 193
+  },
+  {
+    "calendarDate": "2025-08-11",
+    "weeklyGoal": 150,
+    "moderateValue": 148,
+    "vigorousValue": 217
+  },
+  {
+    "calendarDate": "2025-08-18",
+    "weeklyGoal": 150,
+    "moderateValue": 144,
+    "vigorousValue": 172
+  },
+  {
+    "calendarDate": "2025-08-25",
+    "weeklyGoal": 150,
+    "moderateValue": 176,
+    "vigorousValue": 129
+  },
+  {
+    "calendarDate": "2025-09-01",
+    "weeklyGoal": 150,
+    "moderateValue": 195,
+    "vigorousValue": 175
+  },
+  {
+    "calendarDate": "2025-09-08",
+    "weeklyGoal": 150,
+    "moderateValue": 197,
+    "vigorousValue": 243
+  },
+  {
+    "calendarDate": "2025-09-15",
+    "weeklyGoal": 150,
+    "moderateValue": 174,
+    "vigorousValue": 191
+  },
+  {
+    "calendarDate": "2025-09-22",
+    "weeklyGoal": 150,
+    "moderateValue": 152,
+    "vigorousValue": 192
+  },
+  {
+    "calendarDate": "2025-09-29",
+    "weeklyGoal": 150,
+    "moderateValue": 154,
+    "vigorousValue": 192
+  },
+  {
+    "calendarDate": "2025-10-06",
+    "weeklyGoal": 150,
+    "moderateValue": 137,
+    "vigorousValue": 118
+  },
+  {
+    "calendarDate": "2025-10-13",
+    "weeklyGoal": 150,
+    "moderateValue": 155,
+    "vigorousValue": 234
+  },
+  {
+    "calendarDate": "2025-10-20",
+    "weeklyGoal": 150,
+    "moderateValue": 141,
+    "vigorousValue": 219
+  },
+  {
+    "calendarDate": "2025-10-27",
+    "weeklyGoal": 150,
+    "moderateValue": 123,
+    "vigorousValue": 221
+  },
+  {
+    "calendarDate": "2025-11-03",
+    "weeklyGoal": 150,
+    "moderateValue": 182,
+    "vigorousValue": 238
+  },
+  {
+    "calendarDate": "2025-11-10",
+    "weeklyGoal": 150,
+    "moderateValue": 81,
+    "vigorousValue": 168
+  },
+  {
+    "calendarDate": "2025-11-17",
+    "weeklyGoal": 150,
+    "moderateValue": 266,
+    "vigorousValue": 72
+  },
+  {
+    "calendarDate": "2025-11-24",
+    "weeklyGoal": 150,
+    "moderateValue": 271,
+    "vigorousValue": 147
+  },
+  {
+    "calendarDate": "2025-12-01",
+    "weeklyGoal": 150,
+    "moderateValue": 193,
+    "vigorousValue": 118
+  },
+  {
+    "calendarDate": "2025-12-08",
+    "weeklyGoal": 150,
+    "moderateValue": 123,
+    "vigorousValue": 190
+  },
+  {
+    "calendarDate": "2025-12-15",
+    "weeklyGoal": 150,
+    "moderateValue": 139,
+    "vigorousValue": 198
+  },
+  {
+    "calendarDate": "2025-12-22",
+    "weeklyGoal": 150,
+    "moderateValue": 39,
+    "vigorousValue": 21
+  },
+  {
+    "calendarDate": "2025-12-29",
+    "weeklyGoal": 150,
+    "moderateValue": 111,
+    "vigorousValue": 188
+  },
+  {
+    "calendarDate": "2026-01-05",
+    "weeklyGoal": 150,
+    "moderateValue": 99,
+    "vigorousValue": 145
+  },
+  {
+    "calendarDate": "2026-01-12",
+    "weeklyGoal": 150,
+    "moderateValue": 101,
+    "vigorousValue": 158
+  },
+  {
+    "calendarDate": "2026-01-19",
+    "weeklyGoal": 150,
+    "moderateValue": 40,
+    "vigorousValue": 62
+  },
+  {
+    "calendarDate": "2026-01-26",
+    "weeklyGoal": 150,
+    "moderateValue": 137,
+    "vigorousValue": 198
+  },
+  {
+    "calendarDate": "2026-02-02",
+    "weeklyGoal": 150,
+    "moderateValue": 254,
+    "vigorousValue": 202
+  },
+  {
+    "calendarDate": "2026-02-09",
+    "weeklyGoal": 150,
+    "moderateValue": 173,
+    "vigorousValue": 225
+  },
+  {
+    "calendarDate": "2026-02-16",
+    "weeklyGoal": 150,
+    "moderateValue": 301,
+    "vigorousValue": 211
+  },
+  {
+    "calendarDate": "2026-02-23",
+    "weeklyGoal": 150,
+    "moderateValue": 261,
+    "vigorousValue": 175
+  },
+  {
+    "calendarDate": "2026-03-02",
+    "weeklyGoal": 150,
+    "moderateValue": 276,
+    "vigorousValue": 241
+  },
+  {
+    "calendarDate": "2026-03-09",
+    "weeklyGoal": 150,
+    "moderateValue": 288,
+    "vigorousValue": 239
+  },
+  {
+    "calendarDate": "2026-03-16",
+    "weeklyGoal": 150,
+    "moderateValue": 275,
+    "vigorousValue": 182
+  },
+  {
+    "calendarDate": "2026-03-23",
+    "weeklyGoal": 150,
+    "moderateValue": 268,
+    "vigorousValue": 176
+  },
+  {
+    "calendarDate": "2026-03-30",
+    "weeklyGoal": 150,
+    "moderateValue": 269,
+    "vigorousValue": 150
+  },
+  {
+    "calendarDate": "2026-04-06",
+    "weeklyGoal": 150,
+    "moderateValue": 321,
+    "vigorousValue": 223
+  },
+  {
+    "calendarDate": "2026-04-13",
+    "weeklyGoal": 150,
+    "moderateValue": 254,
+    "vigorousValue": 263
+  },
+  {
+    "calendarDate": "2026-04-13",
+    "weeklyGoal": 150,
+    "moderateValue": 254,
+    "vigorousValue": 263
+  },
+  {
+    "calendarDate": "2026-04-20",
+    "weeklyGoal": 150,
+    "moderateValue": 324,
+    "vigorousValue": 200
+  },
+  {
+    "calendarDate": "2026-04-27",
+    "weeklyGoal": 150,
+    "moderateValue": 192,
+    "vigorousValue": 125
+  },
+  {
+    "calendarDate": "2026-05-04",
+    "weeklyGoal": 150,
+    "moderateValue": 301,
+    "vigorousValue": 171
+  },
+  {
+    "calendarDate": "2026-05-11",
+    "weeklyGoal": 150,
+    "moderateValue": 113,
+    "vigorousValue": 214
+  },
+  {
+    "calendarDate": "2026-05-18",
+    "weeklyGoal": 150,
+    "moderateValue": 314,
+    "vigorousValue": 105
+  },
+  {
+    "calendarDate": "2026-05-25",
+    "weeklyGoal": 150,
+    "moderateValue": 132,
+    "vigorousValue": 109
+  },
+  {
+    "calendarDate": "2026-06-01",
+    "weeklyGoal": 150,
+    "moderateValue": 236,
+    "vigorousValue": 295
+  },
+  {
+    "calendarDate": "2026-06-08",
+    "weeklyGoal": 150,
+    "moderateValue": 283,
+    "vigorousValue": 245
+  },
+  {
+    "calendarDate": "2026-06-15",
+    "weeklyGoal": 150,
+    "moderateValue": 276,
+    "vigorousValue": 217
+  },
+  {
+    "calendarDate": "2026-06-22",
+    "weeklyGoal": 150,
+    "moderateValue": 81,
+    "vigorousValue": 14
+  }
+]

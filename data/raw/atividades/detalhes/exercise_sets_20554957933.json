@@ -1,0 +1,21 @@
+{
+  "activityId": 20554957933,
+  "exerciseSets": [
+    {
+      "exercises": [
+        {
+          "category": "UNKNOWN",
+          "name": null,
+          "probability": 98.828125
+        }
+      ],
+      "duration": 2371.374,
+      "repetitionCount": null,
+      "weight": null,
+      "setType": "ACTIVE",
+      "startTime": "2025-10-01T09:12:36.0",
+      "wktStepIndex": null,
+      "messageIndex": 0
+    }
+  ]
+}
